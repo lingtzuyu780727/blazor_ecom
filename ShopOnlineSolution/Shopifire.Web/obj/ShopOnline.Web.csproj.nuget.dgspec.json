@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj": {}
+    "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj": {
+    "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
+        "projectPath": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
         "packagesPath": "C:\\Users\\Tzuyu Ling\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\obj\\",
+        "outputPath": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,10 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://entry.build.91app.io/repository/nineyi-release-npm-hosted": {},
-          "https://entry.build.91app.io/repository/nineyi-release-npm-hosted/": {},
-          "https://entry.build.91app.io/repository/nineyi-release-nuget-hosted": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

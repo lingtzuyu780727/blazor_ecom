@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uwj5RFdNM+2ntp04+4C79KqbZ8tjn98450l6DpBF8NbeJSF4z2OPlQOQCDvB7U/N/ooDQSe1ths/9yZRBMLoPQ==",
+  "dgSpecHash": "KxDfkuvQ6SvvHelH2iK0e3RS/4dgpLagAUDShceMm+l8BBLJ/oVzIrlILfJ4iTxJOAT9ohOn8YvBqcZw1w/Cyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
+  "projectFilePath": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\Shopifire.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tzuyu Ling\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.16\\microsoft.aspnetcore.authorization.6.0.16.nupkg.sha512",
     "C:\\Users\\Tzuyu Ling\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.16\\microsoft.aspnetcore.components.6.0.16.nupkg.sha512",

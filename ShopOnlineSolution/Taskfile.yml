@@ -1,0 +1,11 @@
+version: "3"
+
+tasks:  
+  dev-db:
+    desc: Run dev DB
+    dir: "."
+    # deps: [gen-config]
+    #dev-f2e-build
+    cmds:
+      - docker pull postgres
+      - docker run --name dockerPgSQL -e POSTGRES_PASSWORD=12345678 -p 5432:5432 -d postgres

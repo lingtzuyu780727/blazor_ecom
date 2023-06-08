@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
+    "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
+    "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
         "projectName": "ShopOnline.Api",
-        "projectPath": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectPath": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
         "packagesPath": "C:\\Users\\Tzuyu Ling\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tzuyu Ling\\source\\repos\\tokenTest\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+        "outputPath": "C:\\Users\\Tzuyu Ling\\Desktop\\projects\\blazor_ecom\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,10 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://entry.build.91app.io/repository/nineyi-release-npm-hosted": {},
-          "https://entry.build.91app.io/repository/nineyi-release-npm-hosted/": {},
-          "https://entry.build.91app.io/repository/nineyi-release-nuget-hosted": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -47,6 +44,30 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
